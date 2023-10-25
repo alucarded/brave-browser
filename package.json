@@ -237,7 +237,7 @@
         "dir": "src/brave",
         "branch": "master",
         "repository": {
-          "url": "https://github.com/brave/brave-core.git"
+          "url": "git@github.com:alucarded/brave-core.git"
         }
       }
     }
